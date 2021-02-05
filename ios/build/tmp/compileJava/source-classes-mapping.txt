@@ -1,0 +1,2 @@
+com/mygdx/cwg/IOSLauncher.java
+ com.mygdx.cwg.IOSLauncher

@@ -1,0 +1,4 @@
+com/mygdx/cwg/CWGame.java
+ com.mygdx.cwg.CWGame
+com/mygdx/cwg/Starter.java
+ com.mygdx.cwg.Starter

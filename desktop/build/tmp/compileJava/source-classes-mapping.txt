@@ -1,0 +1,2 @@
+com/mygdx/cwg/desktop/DesktopLauncher.java
+ com.mygdx.cwg.desktop.DesktopLauncher

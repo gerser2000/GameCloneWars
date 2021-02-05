@@ -1,0 +1,10 @@
+com/mygdx/cwg/R.java
+ com.mygdx.cwg.R
+ com.mygdx.cwg.R$color
+ com.mygdx.cwg.R$drawable
+ com.mygdx.cwg.R$string
+ com.mygdx.cwg.R$style
+com/mygdx/cwg/BuildConfig.java
+ com.mygdx.cwg.BuildConfig
+com/mygdx/cwg/AndroidLauncher.java
+ com.mygdx.cwg.AndroidLauncher

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloneWarsGame.iml" filepath="$PROJECT_DIR$/.idea/modules/CloneWarsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/CloneWarsGame.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/CloneWarsGame.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CloneWarsGame.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CloneWarsGame.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/CloneWarsGame.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/CloneWarsGame.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/CloneWarsGame.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/CloneWarsGame.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/CloneWarsGame.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/CloneWarsGame.ios.iml" />
+    </modules>
+  </component>
+</project>
